@@ -46,3 +46,25 @@
     - 두 개의 픽셀 사이의 거리(distance) 측정하는 방법
     - "거리"라고 부르기 위해선 3가지 조건 만족해야함
     
+
+### 컬러기초
+- 컬러기초, 의사컬러영상처리, 컬러변환
+
+- 1) 컬러스펙트럼(Color Spectrum)
+    - EM 스펙트럼(Electro-Magnetic Spectrum)
+    - 가시광선(전자기 파장) 400nm ~ 700nm
+
+- 2) 무채색(Achromatic)과 색채(Chromatic)
+    -  빛이 무색이라고 가정, 관측할 수 있는 요소는 빛의 양은 센서상에서 빛의 강도로 인식되며 흔히 저희가 밝은 색이라고 말하는것에 대응
+
+- probablistic methods
+- variance of intensities( 분산세기)
+- 홀수 : 좌우 얼마나 비대칭인지
+- 짝수 : 좌우 대칭
+- 밝기 변환 함수 intensity
+- log transform
+- gamma correction
+- equalization
+- Inverse mapping
+- correlation / convolution
+- 푸리에 변환
